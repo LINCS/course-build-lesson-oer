@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="16" moduleid="2960" modulename="lesson" contextid="9265">
+  <lesson id="16">
+    <course>82</course>
+    <name>SAMPLE: Practice</name>
+    <practice>1</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>4</grade>
+    <custom>1</custom>
+    <ongoing>1</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441120190</timemodified>
+    <pages>
+      <page id="59">
+        <prevpageid>0</prevpageid>
+        <nextpageid>60</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1436446370</timecreated>
+        <timemodified>0</timemodified>
+        <title>Now you try it: Step One</title>
+        <contents>&lt;p&gt;It's time to recreate a portion of the video to determine just how simple some of these ideas really were.&lt;/p&gt;
+&lt;p&gt;Use the data identified in the video to calculate the circumference of the earth based upon the equations identified by Eratosthenes 2,200 years ago.&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Choose the option below that would be the first step in solving this problem.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;span style="font-size: large;"&gt;Variables&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;To save you the trouble of going back and watching the video again to find your measurements and equations they have been provided below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Angle of a sphere = 360° (Aristotle concluded that the earth was a sphere due to his observations.)&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Swenet is directly overhead at noon on the sun's solstice.&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Alexandria on the solstice is 7.2° off-axis at noon.&lt;/li&gt;
+&lt;li&gt;Distance between the city of Swenet and Alexandria = 500 miles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using that data, you should be able to determine (within 1%) the circumference of the earth.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="119">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436446370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Divide 360 by 7.2</answer_text>
+            <response>That is correct.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="120">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436446370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Divide 500 by 360</answer_text>
+            <response>That is incorrect. We need to know which number we can use to multiply by 500 which will give us our answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="121">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436446370</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Multiply 500 by 7.2</answer_text>
+            <response>That is incorrect. We first need to determine which number we can use to multiply by 500 to find the answer.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="60">
+        <prevpageid>59</prevpageid>
+        <nextpageid>61</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1436446669</timecreated>
+        <timemodified>0</timemodified>
+        <title>Now you try: Step 2</title>
+        <contents>&lt;p&gt;You have correctly determined that you need to divide 360 by 7.2. That gives us the number 50. That's how many times you would be able to fit the distance between Alexandria and Swenet around the outside of the earth.&lt;/p&gt;
+&lt;p&gt;One more step and you will have your answer. Identify the option below that will give us the circumference of the earth within 1%.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;span style="font-size: large;"&gt;Variables&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;To save you the trouble of going back and watching the video again to find your measurements and equations they have been provided below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Angle of a sphere = 360° (Aristotle concluded that the earth was a sphere due to his observations.)&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Swenet is directly overhead at noon on the sun's solstice.&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Alexandria on the solstice is 7.2° off-axis at noon.&lt;/li&gt;
+&lt;li&gt;Distance between the city of Swenet and Alexandria = 500 miles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using that data, you should be able to determine (within 1%) the circumference of the earth.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="122">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436446669</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>50 x 500</answer_text>
+            <response>That is correct.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="123">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436446669</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>50 x 360</answer_text>
+            <response>That is incorrect.</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="61">
+        <prevpageid>60</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1436446920</timecreated>
+        <timemodified>0</timemodified>
+        <title>Now you try: Step Three</title>
+        <contents>&lt;p&gt;You have identified the correct process. Select the answer below and you have completed this stage in the lesson.&lt;/p&gt;
+&lt;p&gt;The estimate for the circumference of the earth using the variables identified below is:&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;span style="font-size: large;"&gt;Variables&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;To save you the trouble of going back and watching the video again to find your measurements and equations they have been provided below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Angle of a sphere = 360° (Aristotle concluded that the earth was a sphere due to his observations.)&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Swenet is directly overhead at noon on the sun's solstice.&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Alexandria on the solstice is 7.2° off-axis at noon.&lt;/li&gt;
+&lt;li&gt;Distance between the city of Swenet and Alexandria = 500 miles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using that data, you should be able to determine (within 1%) the circumference of the earth.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="124">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436446920</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>25,000 miles</answer_text>
+            <response>That is correct</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="125">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436446920</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>24,901 miles</answer_text>
+            <response>You must have searched for the answer. This is much too precise. Try again</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="126">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436446920</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>40,000 miles</answer_text>
+            <response>No. This is closer to the distance in kilometers. </response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

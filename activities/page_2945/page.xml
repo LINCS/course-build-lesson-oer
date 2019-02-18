@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="652" moduleid="2945" modulename="page" contextid="9250">
+  <page id="652">
+    <name>Application: Assignment</name>
+    <intro>&lt;p&gt;Directions for setting up an Assignment to display receive learner submissions.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;The application stage of your WIPPEA lesson is where you want to see what a student can do with the information that he/she has learned. However you choose to have them show that they have mastered the content and can apply it beyond the context of the course, best way to get detailed information back from your users is to use the Assignment module. The flexibility of this module is what makes it so valuable.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;You can allow students to upload text, links, files and any additional comments they wish to make about their submissions. So regardless of the type of submissions it becomes a great space for keeping all of your student data in once place so you can track and monitor their progress. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It allows you as the course facilitator to upload feedback, grade items with rubrics, use a marking guide and as of Moodle 2.6, mark up PDF file submissions.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Here is where you would want to provide your detailed directions for your activity, and supplemental resources a user might need to complete the requirements.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Once a student uploads and submits their work there is no need for them to email you files, ask you if you received your submission or for you to email them once you have reviewed it; Moodle takes care of all of that and they can see that their submission is a part of that assignment.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Assignment module documentation: &lt;a href="http://docs.moodle.org/en/Assignment_module" title="Assignment Module" target="_blank"&gt;http://docs.moodle.org/en/Assignment_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1406573145</timemodified>
+  </page>
+</activity>

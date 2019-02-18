@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="654" moduleid="2955" modulename="page" contextid="9260">
+  <page id="654">
+    <name>Self-Study Delivery Model</name>
+    <intro>&lt;p style="text-align: left;"&gt;&lt;span&gt;The Moodle activities and resources listed below reflect how the sample lesson plan was organized for a facilitated instructional delivery model. Feel free to edit, delete or hide these items. &lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;If you’d like your users to be able to move through your course in a non-facilitated fashion you’ll need to set up your content in a way that provides as much automation as possible. That means that every time a student interacts with your content you’ll need to provide some type of interaction that allows for automated and immediate feedback based on their responses. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;That works great for formative types of assessments but can be challenging for more summative kinds of projects and responses like essay questions, projects and higher-level thinking types of responses. In these kinds of cases you’ll want to include opportunities for self-reflection. It requires opportunities for students to think about their thinking and what they have learned so that they can start to apply it to their current situations.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Both types of feedback are valuable and can enhance student learning. In the example that follows you’ll see how a lesson can be created in Moodle that allows for more of this type of delivery. Notice the differences between the other two methods that require more instructor led options.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It takes a bit longer to set up these kinds of elements in a course but results in an effective learning experience for your learners.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width="100%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/v/1mzuK2hzmuU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/1mzuK2hzmuU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1433889645</timemodified>
+  </page>
+</activity>

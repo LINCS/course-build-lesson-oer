@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="657" moduleid="2965" modulename="page" contextid="9270">
+  <page id="657">
+    <name>Watch this video on the Flipped Delivery Model</name>
+    <intro>&lt;p style="text-align: left;"&gt;The Moodle activities and resources listed below reflect how the sample lesson plan was organized for a flipped instructional delivery model. Feel free to edit, delete or hide these items. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span&gt;Generally speaking, a flipped class is one where direct instruction on a topic is completed by the student outside of class and in-class time is used for activities, projects and discussion that apply and extend the learning. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The Flipped classroom is receiving so much attention because of the ability to provide more support for learners.  In this method students review content, instructor materials like handouts, lessons, tutorials and lecture as the “homework” and perform the assessments under the guidance and support of the course facilitator.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;This is especially useful when students are working with complex topics where they may require extra support. Traditionally, students have received lecture on a topic and are then sent off to complete the course activities on their own and then submit them to an instructor for feedback. By this point, the student may have struggled with particular concepts, their course notes may not have been sufficient to pick up where the class left off. They may turn to internet searches or peers for support and may not always find the most efficient or correct way to solve particular problems.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The flipped model is valued for its efficiency and time spent on-task with the curriculum. It allows students to review concepts multiple times where they may not have been able to previously because content may have been delivered via class lecture or discussion. The ability to customize their own pacing through materials ensures that all learners have a greater opportunity to master course content or benchmarks. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;In the flipped classroom teachers become more of an instructional coach or guide than the expert who disseminates information.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;In the example that follows you’ll find how this can be set up within your learning management system. This model relies heavily on multimedia types of content delivery and breaking up topics into manageable segments.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width="100%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/v/46AeJorEabA?version=3&amp;amp;hl=en_US&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/46AeJorEabA?version=3&amp;amp;hl=en_US&amp;amp;rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>15</revision>
+    <timemodified>1433892323</timemodified>
+  </page>
+</activity>

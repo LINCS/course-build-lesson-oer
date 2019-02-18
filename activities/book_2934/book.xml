@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19" moduleid="2934" modulename="book" contextid="9239">
+  <book id="19">
+    <name>Common Moodle Resources &amp; Activities</name>
+    <intro>&lt;p&gt;This book describes several resources and activities used in Moodle. Use it to help guide your implementation of  your own lesson plan. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1408396677</timecreated>
+    <timemodified>1420213593</timemodified>
+    <chapters>
+      <chapter id="122">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Objectives: Moodle Page (Resource)</title>
+        <content>&lt;p&gt;This is a Moodle Page. It’s essentially a web page within your course. Students click on it and view it. You can enter text, images and embed elements from other web pages like videos, presentations, links or other web content. The page is for displaying content where you don’t need the user to interact. It’s generally for the consumption of information. For example, you may have an OER video that provides information on a certain topic; it can be embedded within a page for the learners to watch. Perhaps you would create your own “orientation” video where you shared a course welcome and expectations. &lt;/p&gt;
+&lt;p&gt;Another use is for sharing your course objectives, which generally do not require a user response. For example,&lt;/p&gt;
+&lt;p&gt;The objectives for this course are to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Highlight which Moodle Resources and Activities would be appropriate for various elements of the WIPPEA Lesson Plan;&lt;/li&gt;
+&lt;li&gt;Provide suggestions for use of these modules for different delivery methods (Facilitated, Self-Study and Flipped).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Key elements for embedding content on a page appear in your toolbar. After you select &lt;strong&gt;Turn Editing On&lt;/strong&gt; either from the button on your course home page, or through the Administration block, you will then be able to edit elements within Moodle.&lt;/p&gt;
+&lt;p&gt;&lt;img width="92" height="24" alt="Button with the words &amp;quot;Turn Editing On&amp;quot;" src="@@PLUGINFILE@@/C4-turneditingon.png" /&gt;  &lt;img width="209" height="169" alt="Administration block showing the Turn Editing On option." src="@@PLUGINFILE@@/C4-AdminBlock_editon.png" /&gt;&lt;/p&gt;
+&lt;p&gt;When you select &lt;strong&gt;Edit Settings &lt;/strong&gt;from the Administration block, you will see a collapsed tool bar like this one on the page: (Select this &lt;a title="Opens the image in a new window." href="@@PLUGINFILE@@/C4-Toolbar%20collapsed.png" target="_blank"&gt;link &lt;/a&gt;to open the image in a new window.)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="40" alt="Toolbar image with a red box surrounding the toggle button to expand the toolbar." src="@@PLUGINFILE@@/C4-Toolbar%20collapsed.png" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1430934358</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="123">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Warm up: Using the Lesson and Discussion Forums (Activity)</title>
+        <content>&lt;p&gt;The Warm-Up stage of your WIPPEA lesson may require some interaction between your users and the content being presented or between the users themselves. Two activities can help you meet these goals: The Lesson activity and the Discussion forum.&lt;/p&gt;
+&lt;p&gt;The Moodle Lesson module allows you to display content for users in a sequence. The module provides the instructor with resources that allow users to keep track of their progress with scores and/or progress bars. These kinds of progress indicators have been shown to facilitate user engagement and encourage greater participation in a course.&lt;/p&gt;
+&lt;p&gt;Another key option in the Lesson module is the ability to insert questions between content pages that allow you do direct which page a user sees next. That way when a user enters a response the page gives them immediate feedback and directs the user to the next page in the lesson or to another page designated for remediation before attempting the question again. The pathway through the content and questions is set up by the instructor.&lt;/p&gt;
+&lt;p&gt;Online collaboration and engagement with your learning materials outside of your classroom can be enhanced by using Discussion forums. Setting up a discussion forum allows students the opportunity to respond to an instructor prompt that may prepare them for the topic about which they’ll be learning. The instructor is the moderator for the forums and can set up options that allow for students to respond to each other and generate asynchronous conversations.&lt;/p&gt;
+&lt;p&gt;There are several types of discussion forums including simple discussion, question &amp;amp; answer, and single posts only. Each has a value depending on your overall objectives for creating a forum. Moodle's flexibility allows you as the instructor to control many aspects of how your learners engage with a discussion forum. For example, in a question and answer forum the instructor can post a question that requires students to post a short essay or summary of what they have learned. They must post their answer before they can see what their classmates have posted. This can show a more authentic level of knowledge because learners cannot review or preview other answers before posting their own.&lt;/p&gt;
+&lt;p&gt;Building a Lesson: &lt;a title="Building a Lesson" href="http://docs.moodle.org/en/Building_Lesson" target="_blank"&gt;http://docs.moodle.org/en/Building_Lesson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Adding a Forum: &lt;a title="Building a Lesson" href="http://docs.moodle.org/en/Forum_module" target="_blank"&gt;http://docs.moodle.org/en/Forum_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1410210367</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="124">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction/Overview of Concepts:Using a Book or a Page</title>
+        <content>&lt;p&gt;The Introduction stage of your WIPPEA lesson involves sharing an overview of the information that will follow. Depending on how much content you have to cover and how it is organized, to present your Introduction or Overview you’ll want to use a Page or a Book module. The resource you are reading now is a Book.&lt;/p&gt;
+&lt;p&gt;If you have a limited amount of information (i.e. students won’t have to scroll down very far to read everything) then a page would suit your needs well. Once you have to scroll more than a few inches past the initial view then you might consider how that content can be broken down. Sometimes it’s overwhelming and (very often because of people’s typical browsing habits) they’ll just scan for some main points and then navigate away from the page. You want to increase the likelihood that someone will stay on your page until they’ve gathered all of the information they need to continue reviewing your materials.&lt;/p&gt;
+&lt;p&gt;If you have multiple sections of content or a lot of information then you’ll want to break it up by using the Book module. This allows you to basically create a digital textbook that allows users to navigate to different pages and even download the materials in a format suitable for printing. The Book module also allows you to embed or link to your OER resources as well. By keeping your learners engaged in reading and/or watching the information within your course, you run less risk that they will navigate away from your course, and the information you are trying to convey. &lt;/p&gt;
+&lt;p&gt;Adding a Book: &lt;a title="Adding a Book" href="http://docs.moodle.org/en/Book_module" target="_blank"&gt;http://docs.moodle.org/en/Book_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1410210418</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="125">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Presentation using a Lesson</title>
+        <content>&lt;p&gt;We’ve gone over how you might use a Lesson module for the Warm-Up, now we’ll discuss how you might use one for the next stage in the WIPPEA lesson, Presentation of content.&lt;/p&gt;
+&lt;p&gt;As mentioned in a previous page Lessons can be an effective warm up activity for your learners. However, the Lesson activity can also be a great way to present information and provide short assessments to make sure key concepts are understood. &lt;/p&gt;
+&lt;p&gt;It takes a little planning, but as you build each page of the lesson you can change the order by moving pages around, add images or even embed video. Consider creating your own video lecture, upload it to a video service like YouTube or Vimeo then embed that video into a Lesson page. Or embed your OER video that demonstrates a concept or process. Once your learners have watched the video, they can progress to a short series of questions to be sure they caught the key points you were covering.&lt;/p&gt;
+&lt;p&gt;Fortunately, there are many tools within Moodle that you can use to present your information. Spend a little time experimenting to see which one works the best for your teaching goals. &lt;/p&gt;
+&lt;p&gt;Building a Lesson: &lt;a title="Building a Lesson" href="http://docs.moodle.org/en/Building_Lesson" target="_blank"&gt;http://docs.moodle.org/en/Building_Lesson&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1420214377</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="126">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Presentation: Supplementing content with an auto-linked glossary</title>
+        <content>&lt;p&gt;For the Presentation stage of your WIPPEA lesson consider using a Glossary Activity in Moodle. The glossary does not need to be used as an activity per se, such as learners adding words for example. You can add all of your terms yourself and prevent students from adding/editing/rating terms in a course. The best use of this tool is when auto-linking is turned on so that whenever terms pop up in your course the user can click on it for a brief definition without leaving the page they are reading.&lt;/p&gt;
+&lt;p&gt;You can also set up a block in your course called Random Glossary entry that provides users with one of your course terms each time they visit the course page.&lt;/p&gt;
+&lt;p&gt;There are many considerations and uses for a Glossary – do not be limited by the traditional use of a glossary to define words for vocabulary learning. If you are interested in learning about other ways to use the Glossary here is a webinar by Chief Evangelist for Moodle, Michelle Moore &lt;em&gt;&lt;a href="https://eduadvisory.adobeconnect.com/_a13846108/p1v0odaqltd/?launcher=false&amp;amp;fcsContent=true&amp;amp;pbMode=normal" title="10 Ways to Make this Old Dog Do New Tricks" target="_blank"&gt;The Glossary Module: 10 Ways to Make this Old Dog Do New Tricks&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Glossary module: &lt;a href="http://docs.moodle.org/en/Glossary_module" title="Creating a Glossary" target="_blank"&gt;http://docs.moodle.org/en/Glossary_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1409783634</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="127">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Evaluation: Using the quiz activity</title>
+        <content>&lt;p&gt;The Evaluation stage of your WIPPEA lesson may be accomplished through the Quiz activity in Moodle. Formative assessment types of questions like short answer, multiple choice, matching, true/false questions can all be set up to provide immediate feedback to students and allow them to re-attempt responses if appropriate.&lt;/p&gt;
+&lt;p&gt;Initially, they can be time-consuming to set up because they require the questions to be created individually, but the time they save you by automatically grading learner attempts and providing immediate feedback is a valuable trade-off. One other consideration is that question banks can be imported into Moodle easily. You may have access to a question bank shared by other instructors, or as part of a teacher's version of a textbook.&lt;/p&gt;
+&lt;p&gt;Since essay questions require manual grading, those types of questions might be better left for the Assignment module. Learners would not receive a final grade on their quiz until the essay question was scored.&lt;/p&gt;
+&lt;p&gt;Quiz module documentation: &lt;a title="The Quiz Module" href="http://docs.moodle.org/en/Quiz_module" target="_blank"&gt;http://docs.moodle.org/en/Quiz_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1420214696</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="128">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Evaluation: Using the assignment activity</title>
+        <content>&lt;p&gt;The Evaluation stage of your WIPPEA lesson may also be accomplished through the Assignment activity in Moodle. The Assignment can be set up with appropriate prompts and instructions that ask the learner to demonstrate their understanding of a concept or a process. There is great flexibility with the Assignment activity because you can ask students to write online or upload files (not limited to just word processing, they can upload images, audio, video) that show students understand and have mastered the learning objectives for your lesson.&lt;/p&gt;
+&lt;p&gt;For example if you were teaching about Newton’s Laws through a video OER you found, you could upload a short clip as part of your instructions. Learners would have to be able to describe and explain what the video was about and expand on what might be missing. This shows the learners understand the concept and can recognize the appropriate law and write about what may be missing because the clip you provided was incomplete.&lt;/p&gt;
+&lt;p&gt;There is more information on using the Assignment activity for the Application portion of your lesson plan as well. Fortunately, Moodle is flexible enough you may find several resources and activities can be used for different aspects of your lesson. &lt;/p&gt;
+&lt;p&gt;Assignment module documentation: &lt;a title="Assignment Module" href="http://docs.moodle.org/en/Assignment_module" target="_blank"&gt;http://docs.moodle.org/en/Assignment_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1420214770</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="129">
+        <pagenum>10</pagenum>
+        <subchapter>0</subchapter>
+        <title>Application: Using the assignment activity</title>
+        <content>&lt;p&gt;The application stage of your WIPPEA lesson is where you want to see what a student can do with the information that he/she has learned. Ultimately you want learns to show mastery of the content and how they can apply it beyond the context of the course.  One way to get detailed information back from your users is to use the Assignment module. The flexibility of this module is what makes it so valuable.&lt;/p&gt;
+&lt;p&gt;You can allow students to upload text, links, files and any additional comments they wish to make about their submissions. So regardless of the type of submissions, it becomes a great space for keeping all of your student data in once place so you can track and monitor their progress. &lt;/p&gt;
+&lt;p&gt;It allows you as the course facilitator to upload feedback, grade items with rubrics, use a marking guide and as of Moodle 2.6, mark up PDF file submissions.&lt;/p&gt;
+&lt;p&gt;Be sure to provide learners detailed directions for your activity, and any supplemental resources a user might need to complete the requirements.&lt;/p&gt;
+&lt;p&gt;Once a student uploads and submits their work there is no need for them to email you files, ask you if you received your submission or for you to email them once you have reviewed it; Moodle takes care of those notifications. Learners can see in their gradebook that their assignment was submitted.&lt;/p&gt;
+&lt;p&gt;Assignment module documentation: &lt;a title="Assignment Module" href="http://docs.moodle.org/en/Assignment_module" target="_blank"&gt;http://docs.moodle.org/en/Assignment_module&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1420214976</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="130">
+        <pagenum>11</pagenum>
+        <subchapter>0</subchapter>
+        <title>Summary </title>
+        <content>&lt;p&gt;The pages represented in this book module provide information on the most common Moodle activities and resources used. Whether using the page, lesson, forum, book, glossary or assignment, do not feel limited by what was presented here. You can explore the different activities and resources available by selecting the &lt;strong&gt;Add an activity or resource&lt;/strong&gt; link in each section of your course once editing is turned on. &lt;/p&gt;
+&lt;p&gt;The process is the same: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Turn editing on (&lt;a title="Button with text Turn editing on" href="@@PLUGINFILE@@/C4-turneditingon.png" target="_blank"&gt;Link to image)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Select a resource or activity to add by using the &lt;strong&gt;Add an activity or resource&lt;/strong&gt; link (&lt;a title="Small button with text: Add an activity or resource" href="@@PLUGINFILE@@/C4-Add%20Activity%20Resource.png" target="_blank"&gt;Link to image&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Once the activity is selected, review the options for that activity. (&lt;a title="Screen image of editing a Moodle page resource." href="@@PLUGINFILE@@/C4-ActivitySettings-annotated.png" target="_blank"&gt;Link to image&lt;/a&gt;) (Use the help icons when you need clarification.) &lt;/li&gt;
+&lt;li&gt;Add appropriate instructions for your learners.&lt;/li&gt;
+&lt;li&gt;Save your changes. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can always make changes to your resources by selecting the &lt;strong&gt;Edit&lt;/strong&gt; option in the Administration block when you are reviewing your resources or activities. &lt;/p&gt;
+&lt;p&gt;With a good lesson plan and a Moodle course shell like this one, you can create engaging, dynamic learning opportunities for your learners. Although it will initially take time to set it up the way you want it, Moodle's flexibility makes it easy to modify and augment your materials in the future.&lt;/p&gt;
+&lt;p&gt;Be sure to watch the additional screencasts in the course on the different instructional models using Moodle. Each may give you ideas and strategies on how you may want to modify this course to benefit your learners.&lt;/p&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1420215072</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="131">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction</title>
+        <content>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Welcome to this Moodle Book resource! It is one example of the many Moodle resources you can use with your learners.In the following pages you learn about other Moodle resources and activities you can incorporate into your Moodle course. &lt;/p&gt;
+&lt;p&gt;If you prefer to have a printed copy of this resource, you can use the links on the left in the Administration block. You can navigate to different pages in the book by using the Table of Contents on the right and select the page you wish to review. &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 13px; line-height: 1.231;"&gt;Each of the following pages introduces Moodle activities or resources for different elements of your WIPPEA lesson plan. There are also links to resources to provide additional information and tutorials through the website &lt;/span&gt;&lt;span style="font-size: 13px; line-height: 1.231;"&gt;&lt;/span&gt;&lt;a title="Opens a new window to the Moodle.org website." style="font-size: 13px; line-height: 1.231;" href="http://www.moodle.org" target="_blank"&gt;Moodle.org&lt;/a&gt;&lt;span style="font-size: 13px; line-height: 1.231;"&gt;. Moodle is a rich learning management system and this course shell is not meant to teach you everything about using Moodle. However, by using the Moodle.org website and searching for answers to your questions through YouTube videos or Google searches, you will find answers to your questions and most likely some great ideas on how you can use Moodle to engage your learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 13px; line-height: 1.231;"&gt;This course is your own sandbox or play area for using Moodle and incorporating your lesson plan as you like. It will take a little experimentation, so be sure to  watch the informational videos in the different sections of the course and feel free to experiment and develop your learning materials in a way that works for your instructional model and your teaching style. Remember: You can always edit and modify your course at any time as long as you are the editing teacher.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1410208498</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="132">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Moodle page continued</title>
+        <content>&lt;p&gt;Select the first button on the row, the pop-up tool tip will say "Toolbar toggle" to open up the toolbar and see all the available buttons and options. (Select this &lt;a title="Opens the image in a new window." href="@@PLUGINFILE@@/Expanded_Toolbar_annotated.png" target="_blank"&gt;link&lt;/a&gt; to open the image in a new window.)&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="105" alt="Three rows of buttons for the toolbar. Numbers 1 through 4 mark specific functions." src="@@PLUGINFILE@@/Expanded_Toolbar_annotated.png" /&gt;&lt;/p&gt;
+&lt;p&gt;The numbers identify commonly used functions for adding media, images and links to your page. The HTML button also allows you to insert HTML code for tasks such as embedding widgets or video from other sites. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Link icon&lt;/li&gt;
+&lt;li&gt;Image embed&lt;/li&gt;
+&lt;li&gt;Media embed&lt;/li&gt;
+&lt;li&gt;HTML Toggle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once changes are made, always be sure to select the &lt;strong&gt;Save changes&lt;/strong&gt; button at the bottom of the page. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Support and Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adding a Page: &lt;a title="Moodle Page Documentation" href="http://docs.moodle.org/en/Page" target="_blank"&gt;http://docs.moodle.org/en/Page&lt;/a&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1430934125</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

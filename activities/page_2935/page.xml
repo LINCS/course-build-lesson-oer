@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="643" moduleid="2935" modulename="page" contextid="9240">
+  <page id="643">
+    <name>Additional Resources for using Moodle</name>
+    <intro>&lt;p&gt;Additional resources for using Moodle&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Moodle is an Open Source platform so documentation is created and updated by the Moodle community. You can view all of their documentation by going to: &lt;a href="http://docs.moodle.org" title="Moodle Documentation" target="_blank"&gt;docs.moodle.org&lt;/a&gt; or, if you just want to learn more about specific Resources and Activities or other course management functions you can jump to &lt;a href="http://docs.moodle.org/en/Managing_a_Moodle_course" title="Managing a course" target="_blank"&gt;docs.moodle.org/en/Managing_a_Moodle_course&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Moodle also maintains a YouTube channel which provides various explanations and tutorials at &lt;a href="http://youtube.com/user/moodlehq" title="Moodle Playlist" target="_blank"&gt;youtube.com/user/moodlehq&lt;/a&gt;. You can watch the &lt;em&gt;LearnMoodle&lt;/em&gt; playlist below. &lt;a href="https://www.youtube.com/playlist?list=PLxcO_MFWQBDdQjcGsbROYKwEIM-IlXmpR" title="LearnMoodle Playlist" target="_blank"&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;For more information about the TEAL Lesson Plan Builder and the WIPPEA Model visit &lt;a href="https://teal.ed.gov/tealGuide/lessonplanning" title="TEAL Lesson Plan Builder" target="_blank"&gt;https://teal.ed.gov/tealGuide/lessonplanning&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;If you are unfamiliar with the ASSURE model there are numerous resources online. Search “ASSURE Model” in your favorite search engine to find immediate examples and references to how this is applied for selecting media materials for instruction. &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;There are a number of Moodle hosting options for hosting your own course:&lt;/p&gt;
+&lt;p&gt;Hosting with your own organization: Many institutions host their own Moodle installation and teachers can restore backup copies of courses from other sites.&lt;/p&gt;
+&lt;p&gt;Self-hosting: Most web hosts offer one-click Moodle installation once you purchase a hosting package.&lt;/p&gt;
+&lt;p&gt;Moodle Partner Hosting: There are a number of &lt;a href="http://moodle.com/partners/" title="Moodle Partners" target="_blank"&gt;Moodle partners&lt;/a&gt; that offer various hosting packages for organizations and individual instructors.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1431607119</timemodified>
+  </page>
+</activity>

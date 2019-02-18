@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="644" moduleid="2937" modulename="page" contextid="9242">
+  <page id="644">
+    <name>SAMPLE: WIPPEA Lesson Plan</name>
+    <intro>&lt;p&gt;This is an example of what a found lesson plan using Open Educational Resources might look like.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;em&gt;This is an example of what a found lesson plan using Open Educational Resources (OER) might look like.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Lesson Name&lt;/strong&gt;: Explaining Concepts with Simple Ideas&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Developed by&lt;/strong&gt;: Jon Fila&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Program area&lt;/strong&gt;: Adult Basic Ed.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Brief description&lt;/strong&gt;: Learners will gain a basic understanding of how simple ideas lead to scientific discovery.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Number of sessions&lt;/strong&gt;: 1&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Time required for each lesson&lt;/strong&gt;: approximately 1:45.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Objectives &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Lesson goal based on learner need&lt;/strong&gt;: Learners will understand how large problems may be solved with simple processes.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;The learner will be able to&lt;/strong&gt;: Identify simple principles behind problems that may seem difficult or impossible to solve.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Resources&lt;/b&gt;&lt;a href="#_msocom_1"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;PhET. &lt;a href="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html"&gt;&lt;i&gt;Balloons and Static Electricity 1.0.0&lt;/i&gt;&lt;/a&gt;. University of Colorado Boulder. Web. 10 June 2014.&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt; Terms of use: &lt;a href="http://creativecommons.org/licenses/by/3.0/us/" style="font-size: 14px;"&gt;Creative Commons Attribution 3.0 United States License&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;Embed code: &amp;lt;iframe width="100%" height="450" src="http://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html"&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Savage, Adam. (2012, March 13). &lt;i&gt;How simple ideas lead to scientific discoveries&lt;/i&gt; [Video file].&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Retrieved from &lt;a href="http://ed.ted.com/lessons/how-simple-ideas-lead-to-scientific-discoveries"&gt;http://ed.ted.com/lessons/how-simple-ideas-lead-to-scientific-discoveries&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;Terms of use:  &lt;a href="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;Creative Commons license Attribution - NonCommercial - NonDerivative (BY-NC-ND)&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;Embed code for video: &amp;lt;iframe width="560" height="315" src="//www.youtube.com/embed/F8UFGu2M2gM?rel=0" frameborder="0" allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Warm-Up/Review&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Duration: 15 min.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Duration: 20 min.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Teacher Notes: Learners are basically walking through the Scientific Method here.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 470px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145"&gt;
+&lt;p style="text-align: left;"&gt;Activity: Why?&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325"&gt;
+&lt;p style="text-align: left;"&gt;Learners will be asked to reflect upon a time when they wondered why something was the way it was, or what causes a particular phenomenon. They will write a summary of that reflection and include any resolution they found to that inquiry. Learners will be asked to include any phenomenon that they would currently like to see explained.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Duration: 10 min.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 470px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145"&gt;
+&lt;p style="text-align: left;"&gt;Activity:&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325"&gt;
+&lt;p style="text-align: left;"&gt;Learners will be asked to make a prediction about the cause of the phenomenon they identified in the Warm-up Activity and then use a search engine to identify the cause. They will summarize how closely their prediction may have come to the one they discovered through their investigation.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 470px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145" style="text-align: left;"&gt;
+&lt;p&gt;Steps of Presentation:&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325" style="text-align: left;"&gt;
+&lt;p&gt;Step 1: Watch the video identified in the Resources.&lt;/p&gt;
+&lt;p&gt;Step 2: Take the review quiz&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Practice&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Duration: 10 min.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 468px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145" valign="top"&gt;
+&lt;p style="text-align: left;"&gt;Activity:&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325" valign="top"&gt;
+&lt;p style="text-align: left;"&gt;Learners will use the data identified in the video to calculate the circumference of the earth based upon the equations identified. They will also be asked to show their work.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Evaluation&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Duration: 30 min.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 470px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145"&gt;
+&lt;p style="text-align: left;"&gt;Learner reflection activity:&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325"&gt;
+&lt;p style="text-align: left;"&gt;Learners will record their reactions on the lesson and activities presented.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;Description: A reaction paper should be a minimum of 250 words and include all of the following: What do you think of what you’ve read or viewed? What are your opinions? Did you like/dislike it? Why? Is there anything you found to be particularly interesting/creative/enjoyable/entertaining/surprising? What made it so? If not, Why? What bothered you so much? &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Application/Extension&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Teacher Notes: 20 min.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0" 470px=""&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="145"&gt;
+&lt;p style="text-align: left;"&gt;Activity: Explain Static Electricity&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="325"&gt;
+&lt;p style="text-align: left;"&gt;Learners can search for other simulations on the PhET site to investigate the Math or Physics behind various concepts. They will be asked to record their observations and explain the concept of static electricity.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1418826222</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="647" moduleid="2940" modulename="page" contextid="9245">
+  <page id="647">
+    <name>Introduction/Overview of Concepts: Using a Book or a Page</name>
+    <intro>&lt;p&gt;Directions for setting up a Book or a Page to provide an Introduction or Overview.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;The Introduction stage of your WIPPEA lesson involves sharing an overview of the information that will follow. Depending on how much content you have to cover and how it is organized, to present your Introduction or Overview you’ll want to use a Page or a Book module.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;If you have a limited amount of information (i.e. students won’t have to scroll down very far to read everything) then a page would suit your needs well. Once you have to scroll more than a few inches past the initial view then you might consider how that content can be broken down. Sometimes it’s overwhelming and (very often because of people’s typical browsing habits) they’ll just scan for some main points and then navigate away from the page. You want to increase the likelihood that someone will stay on your page until they’ve gathered all of the information they need to continue your lesson.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;If you have multiple sections of content or a lot of information then you’ll want to break it up by using the Book module. This allows you to basically create a digital textbook that allows users to navigate to different pages and even download the materials in a format suitable for printing. The Book module also allows you to embed or link to your OER resources as well. By keeping your learners engaged in reading and/or watching the information within your course, you run less risk that they will navigate away from your course, and the information you are trying to convey. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Adding a Book: &lt;a href="http://docs.moodle.org/en/Book_module" title="Adding a Book" target="_blank"&gt;http://docs.moodle.org/en/Book_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1406573086</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="653" moduleid="2946" modulename="page" contextid="9251">
+  <page id="653">
+    <name>Watch this video on the Facilitated Delivery Model</name>
+    <intro>&lt;p style="text-align: left;"&gt;The Moodle activities and resources listed below reflect how the sample lesson plan was organized for a facilitated instructional delivery model. Feel free to edit, delete or hide these items. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;In a facilitated course you have the opportunity to provide more options for learner interaction and more personalized feedback. It is generally an asynchronous type of delivery that allows time for students to receive feedback from an instructor based on their submissions and the opportunity for them to ask for clarification and related questions. This is the method that more closely aligns with a traditional classroom setting. It is still considered blended learning because digital content is being used to support instruction and assessments. It is up to the instructor to determine which elements lend themselves to more direct types of instruction or feedback.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;In the example that follows you will see how the activities can be set up that allow for things like instructor notifications and ability for commenting on what the user produces.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Best practices for this type of method of delivery include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;Timely instructor feedback&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Discussion between the instructor and other course participants&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Opportunities for revision based on feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="100%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/v/QN2XfAxpusM?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/QN2XfAxpusM?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1433889562</timemodified>
+  </page>
+</activity>

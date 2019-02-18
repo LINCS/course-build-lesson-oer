@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="79">
+    <name>Default for Teaching Methods</name>
+    <contextid>9076</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>82</contextinstanceid>
+    <info>The default category for questions shared in context 'Teaching Methods'.</info>
+    <infoformat>0</infoformat>
+    <stamp>moodleshare.org+140829130540+OcOHo7</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

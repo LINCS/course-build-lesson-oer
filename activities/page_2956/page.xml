@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="655" moduleid="2956" modulename="page" contextid="9261">
+  <page id="655">
+    <name>SAMPLE: Being Successful in This Course</name>
+    <intro>&lt;p&gt;These tips will remind you about what qualities will make you successful in this course.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;In order to be successful in this unit you will need to consider the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;strong&gt;Motivation&lt;/strong&gt; and &lt;strong&gt;Self-Discipline&lt;/strong&gt; are essential because it will be up to you to find time in your day to work with materials and understand what you are doing before moving ahead.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;strong&gt;Reliable Internet Service&lt;/strong&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;strong&gt;Ask Questions&lt;/strong&gt; if you feel like you are stuck for more than a few minutes. If it is a technical concern or something about course content, you will want to make sure you get help when you are not sure what to do next.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;strong&gt;Written Communicatio&lt;/strong&gt;n is essential to success in this setting. You will be required to communicate your ideas clearly and thoroughly when asking questions and submitting assignments.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1415717294</timemodified>
+  </page>
+</activity>

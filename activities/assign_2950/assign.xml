@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="463" moduleid="2950" modulename="assign" contextid="9255">
+  <assign id="463">
+    <name>SAMPLE: Practice: Now you try it</name>
+    <intro>&lt;p style="text-align: left;"&gt;{&lt;em&gt;This is a &lt;strong&gt;sample only&lt;/strong&gt;. Do not complete it. It is for review purposes only.&lt;/em&gt;}&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It's time to recreate a portion of the video to determine just how simple some of these ideas really were.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Use the data identified in the video to calculate the circumference of the earth based upon the equations identified by Eratosthenes 2,200 years ago. &lt;em&gt;Do not forget to show your work&lt;/em&gt;.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;To save you the trouble of going back and watching the video again to find your measurements and equations they have been provided below:&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Angle of a sphere = 360° (Aristotle concluded that the earth was a sphere due to his observations.)&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Swenet is directly overhead at noon on the sun's solstice.&lt;/li&gt;
+&lt;li&gt;Sun's shadow in Alexandria on the solstice is 7.2° off-axis at noon.&lt;/li&gt;
+&lt;li&gt;Distance between the city of Swenet and Alexandria = 500 miles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Using that data, you should be able to determine (within 1%) the circumference of the earth.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>0</grade>
+    <timemodified>1435096305</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="3260">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3261">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3262">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="3263">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3264">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3265">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3266">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

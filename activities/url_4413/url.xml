@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="99" moduleid="4413" modulename="url" contextid="12191">
+  <url id="99">
+    <name>Course Evaluation Survey</name>
+    <intro>&lt;p&gt;Course Evaluation Survey&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://s-4019c7-i.sgizmo.com/s3/i-100000278-840919</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:800;s:11:"popupheight";i:600;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1455128391</timemodified>
+  </url>
+</activity>

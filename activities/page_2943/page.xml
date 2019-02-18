@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="650" moduleid="2943" modulename="page" contextid="9248">
+  <page id="650">
+    <name>Evaluation: Quiz</name>
+    <intro>&lt;p&gt;Directions for setting up a Quiz to evaluate learners.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;The Evaluation stage of your WIPPEA lesson may be accomplished through the Quiz activity in Moodle. Formative assessment types of questions like short answer, multiple choice, matching, true/false questions can all be set up to provide immediate feedback to students and allow them to re-attempt responses if appropriate.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;They can be time-consuming to set up because they require the questions to be created individually, but the time they save you by providing immediate feedback is a valuable trade-off.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Since essay questions require manual grading, those types of questions might be better left for the Assignment module.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Quiz module documentation: &lt;a href="http://docs.moodle.org/en/Quiz_module" title="The Quiz Module" target="_blank"&gt;http://docs.moodle.org/en/Quiz_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1406573132</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="470" moduleid="2973" modulename="assign" contextid="9278">
+  <assign id="470">
+    <name>SAMPLE: Application: Explaining a phenomenon</name>
+    <intro>&lt;p style="text-align: left;"&gt;{&lt;em&gt;This is a &lt;strong&gt;sample only&lt;/strong&gt;. Do not complete it. It is for review purposes only.&lt;/em&gt;}&lt;/p&gt;
+&lt;p&gt;After spending some time interacting with the simulation below, record your observations and explain the concept of static electricity.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="560" height="315"&gt;&lt;param name="simulation" value="//phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html" type="text/html" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How did interacting with the simulation inform or change your understanding of Static Electricity?&lt;/li&gt;
+&lt;li&gt;Does this type of simulation help to simplify the concepts surrounding the phenomenon?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Search for other simulations on &lt;a title="PhET HTML5 Simulations" href="http://phet.colorado.edu/en/simulations/category/html" target="_blank"&gt;the PhET site &lt;/a&gt;to investigate the Math or Physics behind various concepts. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;If you need an alternative to the object above try this one:&lt;/p&gt;
+&lt;div style="position: relative; width: 300px; height: 247px;"&gt;&lt;a href="http://phet.colorado.edu/sims/balloons/balloons_en.jnlp" style="text-decoration: none;"&gt;&lt;img src="http://phet.colorado.edu/sims/balloons/balloons-screenshot.png" alt="Balloons and Static Electricity" style="border: none;" width="300" height="247" /&gt;&lt;/a&gt;
+&lt;div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 83px; background-color: #fff; opacity: 0.6; filter: alpha(opacity = 60);"&gt;&lt;/div&gt;
+&lt;table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 83px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;"&gt;Click to Run&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Balloon and Sweater Static Electricity Simulation Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This simulation allows the user to rub a balloon against a sweater to pick up negative electrons, and then the balloon will be attracted to the sweater, or to the wall if it is close enough).&lt;/p&gt;
+&lt;p&gt;When the balloon has a negative charge this means that more electrons have been picked up. The total number of electrons is not gained or lost, just transferred to a different object. The force gets stronger with more charge and with less distance; force happens when you have differences in charges.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-7</grade>
+    <timemodified>1435096443</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="3309">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3310">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3311">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="3312">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3313">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3314">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="3315">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

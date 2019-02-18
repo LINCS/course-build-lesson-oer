@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="336" moduleid="2947" modulename="forum" contextid="9252">
+  <forum id="336">
+    <type>general</type>
+    <name>SAMPLE: Warm-Up: Why? Thinking about Cause and Effect</name>
+    <intro>&lt;p style="text-align: left;"&gt;{&lt;em&gt;This is a &lt;strong&gt;sample only&lt;/strong&gt;. Do not complete it. It is for review purposes only.&lt;/em&gt;}&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Reflect upon a time when you wondered why something was the way it was, or the cause of a particular phenomenon. For example, as a child, did you ever wonder what caused the wind to blow or why there were earthquakes?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;After you've considered that for a moment, write a summary of that reflection by adding a discussion topic below. Include if you were able to find any resolution to that inquiry at the time or if you did not receive the answer for which you were looking.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Include any phenomenon for which you may currently have questions about and would like an explanation.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Once you've made your post you may respond to posts made in other topics.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1432819349</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

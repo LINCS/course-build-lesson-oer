@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="648" moduleid="2941" modulename="page" contextid="9246">
+  <page id="648">
+    <name>Presentation and Practice: Using a Lesson</name>
+    <intro>&lt;p&gt;Directions for setting up a Lesson to display course Presentations and provide learners with an opportunity for practice.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;We’ve gone over how you might use a Lesson module for the Warm-Up, now we’ll discuss how you might use one for the next stage in the WIPPEA lesson, Presentation of content.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;As mentioned in a previous page [link to] Lessons can be an effective warm up activity for your learners. However, the Lesson activity can also be a great way to present information and provide short assessments to make sure key concepts are understood. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It takes a little planning, but as you build each page of the lesson you can change the order by moving pages around, add images or even embed video. Consider creating your own video lecture, upload it to a video service like YouTube or Vimeo then embed that video into a Lesson page. Or embed your OER video that demonstrates a concept or process. Once your learners have watched the video, they can progress to a short series of questions to be sure they caught the key points you were covering.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Fortunately, there are many tools within Moodle that you can use to present your information. Spend a little time experimenting to see which one works the best for your teaching goals. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Building a Lesson: &lt;a href="http://docs.moodle.org/en/Building_Lesson" title="Building a Lesson" target="_blank"&gt;http://docs.moodle.org/en/Building_Lesson&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1406573097</timemodified>
+  </page>
+</activity>

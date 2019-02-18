@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="749" moduleid="2963" modulename="label" contextid="9268">
+  <label id="749">
+    <name>
+This is a Moodle backup file. Download the file ...</name>
+    <intro>&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;This is a Moodle backup file. Download the file and &lt;a href="https://docs.moodle.org/en/Course_restore" title="Restore Directions" target="_blank"&gt;restore it to your own course&lt;/a&gt;. Make certain that you create a blank section for Topic 1 in your course that will contain all of this section's samples.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1420127982</timemodified>
+  </label>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="23" moduleid="2954" modulename="resource" contextid="9259">
+  <resource id="23">
+    <name>Download a copy of this section.</name>
+    <intro>&lt;p&gt;This is a Moodle backup file. Download the file and &lt;a href="https://docs.moodle.org/en/Course_restore" title="Restore Directions" target="_blank"&gt;restore it to your own course&lt;/a&gt;. Make certain that you create a blank section for Topic 1 in your course that will contain all of this section's samples.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:3:{s:10:"printintro";i:1;s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1447257549</timemodified>
+  </resource>
+</activity>

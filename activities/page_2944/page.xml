@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="651" moduleid="2944" modulename="page" contextid="9249">
+  <page id="651">
+    <name>Evaluation: Assignment</name>
+    <intro>&lt;p&gt;Directions for setting up an Assignment to display receive learner submissions.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;The Evaluation stage of your WIPPEA lesson may also be accomplished through the Assignment activity in Moodle. The Assignment can be set up with appropriate prompts and instructions that ask the learner to demonstrate their understanding of a concept or a process. There is great flexibility with the Assignment activity because you can ask students to write online or upload files (not limited to just word processing, they can upload images, audio, video) that show students understand and have mastered the learning objectives for your lesson.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;For example if you were teaching about Newton’s Laws through an video OER you found, you could upload a short clip as part of your instructions. Learners would have to be able to describe and explain what the video was about and expand on what might be missing. This shows the learners understand the concept and can recognize the appropriate law and write about what may be missing because the clip you provided was incomplete.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;There is more information on using the Assignment activity for the Application portion of your lesson plan as well. Fortunately, Moodle is flexible enough you may find several resources and activities can be used for different aspects of your lesson. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Assignment module documentation: &lt;a href="http://docs.moodle.org/en/Assignment_module" title="Assignment Module" target="_blank"&gt;http://docs.moodle.org/en/Assignment_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1406573138</timemodified>
+  </page>
+</activity>

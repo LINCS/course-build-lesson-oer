@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="2957" modulename="lesson" contextid="9262">
+  <lesson id="14">
+    <course>82</course>
+    <name>SAMPLE: Warm-Up: Perception vs. Reality</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-14</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441120176</timemodified>
+    <pages>
+      <page id="51">
+        <prevpageid>0</prevpageid>
+        <nextpageid>52</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1436150937</timecreated>
+        <timemodified>1441299717</timemodified>
+        <title>Reflect</title>
+        <contents>&lt;p&gt;Before we continue in this lesson, take a few moments to consider these questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you recall a time when you wondered why something was the way it was? Or you may have experienced some kind of phenomenon that left you wondering how it happened or what caused it?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some examples might be that you wondered what caused the wind to blow, or why it rained. After you consider this question, please select the &lt;em&gt;Ready to move on button&lt;/em&gt; below.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="104">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436150937</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ready to move on.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="52">
+        <prevpageid>51</prevpageid>
+        <nextpageid>53</nextpageid>
+        <qtype>3</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1436151118</timecreated>
+        <timemodified>0</timemodified>
+        <title>Respond</title>
+        <contents>&lt;p&gt;You've considered that for a moment, so respond to the options below. Include if you were able to find any resolution to that inquiry at the time or if you did not receive the answer for which you were looking.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="105">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436151118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>I was able to find resolution to that inquiry.</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="106">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436151118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>I never received an answer about that particular phenomenon.</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="107">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436151118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>I received an answer, but it was not adequate.</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="53">
+        <prevpageid>52</prevpageid>
+        <nextpageid>54</nextpageid>
+        <qtype>1</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1436151321</timecreated>
+        <timemodified>1436151631</timemodified>
+        <title>And now?</title>
+        <contents>&lt;p&gt;Include any phenomenon for which you may currently have questions about and would like an explanation.&lt;/p&gt;
+&lt;p&gt;Use this sample sentence starter in your response:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I still find myself wondering about...&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="108">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1436151321</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>I still find myself wondering about*</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="54">
+        <prevpageid>53</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1436151472</timecreated>
+        <timemodified>0</timemodified>
+        <title>Looking forward</title>
+        <contents>&lt;p&gt;Hopefully you've considered phenomenon in which you are still interested. You may have the opportunity later on to further explore that interest.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="109">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436151472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>I've finished the warm-up and am ready for the next step.</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

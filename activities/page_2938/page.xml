@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="645" moduleid="2938" modulename="page" contextid="9243">
+  <page id="645">
+    <name>Objectives: Using a Page</name>
+    <intro>&lt;p&gt;Directions for setting up a page to display course objectives.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;This is a Moodle Page. It’s essentially a web page within your course. Students click on it and view it. You can enter text, images and embed elements from other web pages like videos, presentations, links or other web content. The page is for displaying content where you don’t need the user to interact. It’s generally for the consumption of information. For example, you may have an OER video that provides information on a certain topic; it can be embedded within a page for the learners to watch. Perhaps you would create your own “orientation” video where you shared a course welcome and expectations. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Another use is for sharing your course objectives, which generally do not require a user response. For example,&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The objectives for this course are to:&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Highlight which Moodle Resources and Activities would be appropriate for various elements of the WIPPEA Lesson Plan;&lt;/li&gt;
+&lt;li&gt;Provide suggestions for use of these modules for different delivery methods (Facilitated, Self-Study and Flipped).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Key elements for embedding content on a page are found on the editing tool bar. They include these items: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="text-align: left;"&gt;Link icon&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Image embed&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Media embed&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;HTML Toggle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Support and Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Adding a Page: &lt;a title="Moodle Page Documentation" href="http://docs.moodle.org/en/Page" target="_blank"&gt;http://docs.moodle.org/en/Page&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>9</revision>
+    <timemodified>1418777799</timemodified>
+  </page>
+</activity>

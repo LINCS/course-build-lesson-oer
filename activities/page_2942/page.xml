@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="649" moduleid="2942" modulename="page" contextid="9247">
+  <page id="649">
+    <name>Presentation: Supplementing content with an auto-linked Glossary</name>
+    <intro>&lt;p&gt;Directions for setting up an auto-linked Glossary to display definitions of course key terms.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;For the Presentation stage of your WIPPEA lesson consider using a Glossary Activity in Moodle. The glossary does not need to be used as an activity per se, such as learners adding words for example. You can add all of your terms yourself and prevent students from adding/editing/rating terms in a course. The best use of this tool is when auto-linking is turned on so that whenever terms pop up in your course the user can click on it for a brief definition without leaving the page they are reading.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;You can also set up a block in your course called Random Glossary entry that provides users with one of your course terms each time they visit the course page.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;There are many considerations and uses for a Glossary – do not be limited by the traditional use of a glossary to define words for vocabulary learning. If you are interested in learning about other ways to use the Glossary here is a webinar by Chief Evangelist for Moodle, Michelle Moore &lt;em&gt;&lt;a href="https://eduadvisory.adobeconnect.com/_a13846108/p1v0odaqltd/?launcher=false&amp;amp;fcsContent=true&amp;amp;pbMode=normal" title="10 Ways to Make this Old Dog Do New Tricks" target="_blank"&gt;The Glossary Module: 10 Ways to Make this Old Dog Do New Tricks&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Glossary module: &lt;a href="http://docs.moodle.org/en/Glossary_module" title="Creating a Glossary" target="_blank"&gt;http://docs.moodle.org/en/Glossary_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1406573122</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="656" moduleid="2958" modulename="page" contextid="9263">
+  <page id="656">
+    <name>SAMPLE: Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Now it is time to take the phenomenon you identified in the previous activity and do some investigation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a prediction about the cause. After you have considered potential causes on your own;&lt;/li&gt;
+&lt;li&gt;Use a search engine to identify the cause of your phenomenon.&lt;/li&gt;
+&lt;li&gt;Summarize how closely your prediction came to the cause(s) identified through your searching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will likely receive millions of results. That's not quite as helpful. Consider the search strategies below to aid in your investigation. &lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-size: large;"&gt;Search Strategies:&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span style="font-size: medium;"&gt;Quotation Marks:&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="margin-left: 30px;"&gt;Using quotation marks around your term will only search sites in which your words appear in that specific order.&lt;/p&gt;
+&lt;h3&gt;&lt;span style="font-size: medium;"&gt;Elimination of words:&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="margin-left: 30px;"&gt;Using the - symbol in front of a word will exclude any sites that contain that specific word.&lt;/p&gt;
+&lt;h3&gt;&lt;span style="font-size: medium;"&gt;Filter results for time:&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="margin-left: 30px;"&gt;Search engines will allow you you only find information that has been added within the past day, week, month, year and so on. Use that setting to find more current information.&lt;/p&gt;
+&lt;h3&gt;&lt;span style="font-size: medium;"&gt;Look for results that support each other:&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="margin-left: 30px;"&gt;If you are indeed finding accurate information you will see it repeated in multiple sources.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1409317951</timemodified>
+  </page>
+</activity>

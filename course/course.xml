@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="82" contextid="9076">
+  <shortname>OER_Build_Lesson</shortname>
+  <fullname>Build a Lesson with OER</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This course is designed as a template, or guide, to help teachers with experience in the Moodle Learning Management System environment to develop a comprehensive online lesson using OERs to deliver instruction. It is not a facilitated course. The course template  is designed with a basic structure aligned to a modified TEAL Lesson Plan Builder (using a WIPPEA lesson plan model: warm-up, introduction, presentation, practice, evaluation, and application) that allows teachers to create a usable online resource that learners can access anytime. The WIPPEA lesson planning model was chosen as the framework for this template because it is widely recognized and commonly used in effective lesson planning strategies for adult education (AE). The course template is designed to be flexible and will allow teachers to choose which WIPPEA lesson plan elements to develop online. The course template would be used to design a lesson that would fit a variety of instructional strategies (i.e., facilitated, self-study, or flipped) and would allow teachers the opportunity to integrate different types of OERs (e.g., text, audio, videos, assessments, and simulations).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Format&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Self-directed; Estimated Completion Time: 3.5-5 hours&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1420520400</startdate>
+  <marker>0</marker>
+  <maxbytes>20971520</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1420246261</timecreated>
+  <timemodified>1518033400</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>5</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <category id="22">
+    <name>Teaching and Learning</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

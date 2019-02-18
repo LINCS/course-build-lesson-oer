@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="646" moduleid="2939" modulename="page" contextid="9244">
+  <page id="646">
+    <name>Warm-Up: Using the Lesson or Forum Module</name>
+    <intro>&lt;p&gt;Directions for setting up a Lesson and Discussion Forum for Warm-Up activities.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;The Warm-Up stage of your WIPPEA lesson may require some interaction between your users and the content being presented or between the users themselves. The Moodle Lesson module allows you to display content for users in a sequence. The module provides the instructor with resources that allow users to keep track of their progress with scores and/or progress bars. These kinds of progress indicators have been shown to facilitate user engagement and encourage greater participation in a course.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Another key option in the Lesson module is the ability to insert questions between content pages that allow you do direct which page a user sees next. That way when a user enters a response the page gives them immediate feedback and directs the user to the next page in the lesson or to another page designated for remediation before attempting the question again. The pathway through the content and questions is set up by the instructor.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Setting up a discussion forum allows students the opportunity to respond to an instructor prompt that may prepare them for the topic about which they’ll be learning. The instructor is the moderator for the forums and can set up options that allow for students to respond to each other and generate asynchronous conversations.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Building a Lesson: &lt;a href="http://docs.moodle.org/en/Building_Lesson" title="Building a Lesson" target="_blank"&gt;http://docs.moodle.org/en/Building_Lesson&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Adding a Forum: &lt;a href="http://docs.moodle.org/en/Forum_module" title="Building a Lesson" target="_blank"&gt;http://docs.moodle.org/en/Forum_module&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1406573074</timemodified>
+  </page>
+</activity>

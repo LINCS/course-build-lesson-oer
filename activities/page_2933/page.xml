@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="642" moduleid="2933" modulename="page" contextid="9238">
+  <page id="642">
+    <name>Course Description and Objectives</name>
+    <intro>&lt;p&gt;Course Description and Objectives&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h2 style="text-align: left;"&gt;Description&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;This course will be designed as a template, or guide, to help teachers with experience in the Moodle Learning Management System environment to develop a comprehensive online lesson using OERs to deliver instruction. The course template will be designed with a basic structure aligned to a modified TEAL Lesson Plan Builder (using a WIPPEA lesson plan model: warm-up, introduction, presentation, practice, evaluation, and application) that allows teachers to create a usable online resource that learners can access anytime. The WIPPEA lesson planning model was chosen as the framework for this template because it is widely recognized and commonly used in effective lesson planning strategies for adult education (AE). The course template is designed to be flexible and will allow teachers to choose which WIPPEA lesson plan elements to develop online. The course template would be used to design a lesson that would fit a variety of instructional strategies (i.e., facilitated, self-study, or flipped) and would allow teachers the opportunity to integrate different types of OERs (e.g., text, audio, videos, assessments, and simulations). &lt;/p&gt;
+&lt;h2 style="text-align: left;"&gt;Course Objectives&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Using this template, Adult Education teachers will be able to create an online learning resource by:&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li&gt;
+&lt;p&gt;Writing WIPPEA lesson plan segments in the template.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Uploading and/or linking to OER resources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Updating and revising template materials as needed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 style="text-align: left;"&gt;Format&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Self-directed; Estimated Completion Time: 3.5-5 hours&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>21</revision>
+    <timemodified>1429041266</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scales_definition>
+  <scale id="7">
+    <courseid>82</courseid>
+    <userid>144</userid>
+    <name>Satisfactory</name>
+    <scale>Not satisfactory,Satisfactory,Outstanding</scale>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <timemodified>1061229807</timemodified>
+  </scale>
+</scales_definition>
